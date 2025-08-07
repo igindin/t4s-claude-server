@@ -1,0 +1,6 @@
+{
+  "name": "t4s-claude-server",
+  "version": "1.0.0",
+  "description": "Claude API proxy for T4S"
+}
+
